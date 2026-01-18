@@ -35,16 +35,27 @@ A responsive **Weather App** built using **HTML, CSS, and JavaScript** that fetc
 weather-app/
 │
 ├── index.html
+
 ├── style.css
+
 ├── assets/
+
 │ ├── clear.png
+
 │ ├── clouds.png
+
 │ ├── drizzle.png
+
 │ ├── humidity.png
+
 │ ├── mist.png
+
 │ ├── rain.png
+
 │ ├── search.png
+
 │ └── wind.png
+
 └── README.md
 
 ---
