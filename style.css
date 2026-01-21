@@ -298,7 +298,7 @@ body{
 /* Very Small Devices */
 @media (max-width: 300px) {
     .card {
-        width: 100%;
+        width: 80%;
         padding: 18px 12px;
     }
 
