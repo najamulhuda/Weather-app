@@ -341,6 +341,7 @@ body{
 
     .search input {
         height: 45px;
+        max-width: 10%;
     }
 
     .search button {
